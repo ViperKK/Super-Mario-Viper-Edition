@@ -1,14 +1,11 @@
 # mario-maker
 Classic Mario Game with Level-Editor made using **plain Javascript and HTML5 canvas**.
 You can create your own levels and play or simply play the pre-built levels.
-Download the files and run index.html to play the game, 
-or simply visit the following link.
-
-http://pratishshr.github.io/mario-maker/
+Download the files and run index.html to play the game.
 
 ## Controls:
 
-* Right-Arrow/ Left-Arrow : Move right/left,
+* Right-Arrow/Left-Arrow: Move right/left,
 * Space/Up-Arrow: Jump,
 * Shift: Sprint,
 * Ctrl: Bullets
